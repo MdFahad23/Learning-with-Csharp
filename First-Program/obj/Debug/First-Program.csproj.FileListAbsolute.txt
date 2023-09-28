@@ -1,0 +1,7 @@
+F:\C#-Learging\First-Program\bin\Debug\First-Program.exe.config
+F:\C#-Learging\First-Program\bin\Debug\First-Program.exe
+F:\C#-Learging\First-Program\bin\Debug\First-Program.pdb
+F:\C#-Learging\First-Program\obj\Debug\First-Program.csproj.AssemblyReference.cache
+F:\C#-Learging\First-Program\obj\Debug\First-Program.csproj.CoreCompileInputs.cache
+F:\C#-Learging\First-Program\obj\Debug\First-Program.exe
+F:\C#-Learging\First-Program\obj\Debug\First-Program.pdb

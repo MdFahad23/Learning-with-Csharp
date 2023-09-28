@@ -1,0 +1,71 @@
+// Integer Data Type ---
+    // A) Signed Data Type - Positive Value + Negative Value the Store
+    // B) UnSigned Data Type - Positive Value Store
+
+        1. sbyte - -128 to 127 - Signed 8-bit Integer
+
+        2. byte - 0 to 255 - UnSigned 8-bit Integer
+
+        3. char - U+0000 to U+ffff - Unicode  16-bit character
+
+        4. short - -32.768 to 32.767 - Signed 16-bit Integer
+
+        5. ushort - 0 to 65.535 - UnSigned 16-bit Integer
+
+        6. int - -21.453.245 to 21.243.1554 - Signed 32-bit Integer
+
+        7. uint - 0 to 405,90800 - UnSigned 32-bit Integer
+
+        8. long - -35252,56545,5465 to 35252,65744,6452 - Signed 64-bit Integer
+
+        9. ulong - 0 to 6415,65654645,5454 - UnSigned 64-bit Integer
+
+        *Method - (MaxValue) (MinValue)
+
+//Boolean Data Type ---
+    .True
+    .False
+
+// Float Double and Decimal Data Type ---
+    C# Alias        .NET Type       Size        Precision
+
+    float        System.Single    4 bytes        7 digits
+    double       System.Double    8 bytes    15-16 digits    
+    decimal      System.Decimal   16 bytes   28-29 decimal Place
+
+
+// String and Character Data Type
+    String stores multiple Character in a Single variable.
+    Double quotes will be used with String data type.
+    Char stores single Character at a time in a variable
+    Single quotes will be used for char data type.
+
+    * Escape Sequence - \, \\, \t, \n, \" \"
+    * Verbatim Literal
+        .Verbatim Literal is a String with an @ symbol.
+        .Verbatim Literal make Escape sequences translate as normal printable characters to enhance readability. 
+        //Practical Example:
+            *Without Verbatim Literal: "D:\\Fahad\\Program\\Csharp" - Less readable
+            *Without Verbatim Literal: @"D:\Fahad\Program\Csharp" - More readable
+
+
+// Data Type Conversion in C# Programming
+    there are two types of conversions implicit and explicit conversion.
+
+    # Implicit conversion is done by the complier.
+        *When there is no loss of information if the conversion is done.
+        *IF there is no possibility of throwing exception during the conversion.
+
+    Example: Converting an int to a float will not loose any data and no Exception will be thrown, Hence an implicit conversion can be done.
+
+    Where as when converting a float to an int, we loose the Fractional part and also a possibility of overflow exception.Hence, In this case an explicit conversion is Required.
+
+    For explicit conversion we can use the convert class in C#.
+    Parse function of int.
+
+// Constant
+    / A constant has a fixed value that remains unchanged throughout the program.
+    / In C#, you can declare constants for all data types.
+    / You have to initialize a constant at the time of its declaration.
+    / Constants are declared for value types rather than for reference types.
+    / To declare an identifier as a constant, the "Const" Keyword is used in the identifier declaration.The compiler can identify constants at the time of compilation, because of the "Const" Keyword. 

@@ -1,0 +1,7 @@
+F:\C#-Learging\Statements\bin\Debug\Statements.exe.config
+F:\C#-Learging\Statements\bin\Debug\Statements.exe
+F:\C#-Learging\Statements\bin\Debug\Statements.pdb
+F:\C#-Learging\Statements\obj\Debug\Statements.csproj.AssemblyReference.cache
+F:\C#-Learging\Statements\obj\Debug\Statements.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Statements\obj\Debug\Statements.exe
+F:\C#-Learging\Statements\obj\Debug\Statements.pdb
