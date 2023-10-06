@@ -1,0 +1,7 @@
+F:\C#-Learging\ConstructorFunction\bin\Debug\ConstructorFunction.exe.config
+F:\C#-Learging\ConstructorFunction\bin\Debug\ConstructorFunction.exe
+F:\C#-Learging\ConstructorFunction\bin\Debug\ConstructorFunction.pdb
+F:\C#-Learging\ConstructorFunction\obj\Debug\ConstructorFunction.csproj.AssemblyReference.cache
+F:\C#-Learging\ConstructorFunction\obj\Debug\ConstructorFunction.csproj.CoreCompileInputs.cache
+F:\C#-Learging\ConstructorFunction\obj\Debug\ConstructorFunction.exe
+F:\C#-Learging\ConstructorFunction\obj\Debug\ConstructorFunction.pdb

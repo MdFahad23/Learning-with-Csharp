@@ -1,0 +1,7 @@
+F:\C#-Learging\Loop\bin\Debug\Loop.exe.config
+F:\C#-Learging\Loop\bin\Debug\Loop.exe
+F:\C#-Learging\Loop\bin\Debug\Loop.pdb
+F:\C#-Learging\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+F:\C#-Learging\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Loop\obj\Debug\Loop.exe
+F:\C#-Learging\Loop\obj\Debug\Loop.pdb

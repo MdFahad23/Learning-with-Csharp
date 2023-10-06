@@ -54,15 +54,36 @@ namespace Statements
             //Console.WriteLine(c);
 
             /*Simple Assignment Operator Or Compound Assignment Operator*/
-            int a = 10;
+            //int a = 10;
 
             //a += 5; //a = a + 5 = 15
             //a -= 5; //a = a - 5 = 5
             //a *= 5; //a = a * 5 = 50
             //a /= 5; //a = a / 5 = 2
-            a %= 5; //a = a % 5 = 0
+            //a %= 5; //a = a % 5 = 0
 
-            Console.WriteLine(a);
+            //Console.WriteLine(a);
+
+            /*Increment and Decrement*/
+            /*int a = 10;
+            
+            Console.WriteLine(a++) //Post Increment
+            Console.WriteLine(++a) //Pre Increment
+            Console.WriteLine(a--) //Post Decrement
+            Console.WriteLine(--a) //Pre Decrement*/
+
+            /*Ternary Operator or Conditional Operator*/
+
+            //int num1 = 50, num2 = 60;
+
+            //Console.WriteLine(num1 == num2 ? "Valide" : "UnValide");
+
+            /*Precedence of Operators*/
+
+            //int a = 8 / 2 - 3 + 2 * 2; // 4 - 3 + 2 * 2 , 4 - 3 + 4, 1 + 4 = 5
+            //int a = 8 / 2 - (3 + 2) * 2; // 8 / 2 - 5 * 2 , 4 - 5 * 2, 4 - 10 = -6
+
+            //Console.WriteLine(a);
 
             Console.ReadLine();
 

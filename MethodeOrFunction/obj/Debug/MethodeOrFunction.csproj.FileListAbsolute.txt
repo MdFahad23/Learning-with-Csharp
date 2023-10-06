@@ -1,0 +1,7 @@
+F:\C#-Learging\MethodeOrFunction\bin\Debug\MethodeOrFunction.exe.config
+F:\C#-Learging\MethodeOrFunction\bin\Debug\MethodeOrFunction.exe
+F:\C#-Learging\MethodeOrFunction\bin\Debug\MethodeOrFunction.pdb
+F:\C#-Learging\MethodeOrFunction\obj\Debug\MethodeOrFunction.csproj.AssemblyReference.cache
+F:\C#-Learging\MethodeOrFunction\obj\Debug\MethodeOrFunction.csproj.CoreCompileInputs.cache
+F:\C#-Learging\MethodeOrFunction\obj\Debug\MethodeOrFunction.exe
+F:\C#-Learging\MethodeOrFunction\obj\Debug\MethodeOrFunction.pdb

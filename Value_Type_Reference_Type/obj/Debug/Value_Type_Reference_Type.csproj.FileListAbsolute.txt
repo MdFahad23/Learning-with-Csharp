@@ -1,0 +1,7 @@
+F:\C#-Learging\Value_Type_Reference_Type\bin\Debug\Value_Type_Reference_Type.exe.config
+F:\C#-Learging\Value_Type_Reference_Type\bin\Debug\Value_Type_Reference_Type.exe
+F:\C#-Learging\Value_Type_Reference_Type\bin\Debug\Value_Type_Reference_Type.pdb
+F:\C#-Learging\Value_Type_Reference_Type\obj\Debug\Value_Type_Reference_Type.csproj.AssemblyReference.cache
+F:\C#-Learging\Value_Type_Reference_Type\obj\Debug\Value_Type_Reference_Type.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Value_Type_Reference_Type\obj\Debug\Value_Type_Reference_Type.exe
+F:\C#-Learging\Value_Type_Reference_Type\obj\Debug\Value_Type_Reference_Type.pdb

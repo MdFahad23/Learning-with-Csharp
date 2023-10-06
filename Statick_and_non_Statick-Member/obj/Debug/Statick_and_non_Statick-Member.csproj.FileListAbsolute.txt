@@ -1,0 +1,7 @@
+F:\C#-Learging\Statick_and_non_Statick-Member\bin\Debug\Statick_and_non_Statick-Member.exe.config
+F:\C#-Learging\Statick_and_non_Statick-Member\bin\Debug\Statick_and_non_Statick-Member.exe
+F:\C#-Learging\Statick_and_non_Statick-Member\bin\Debug\Statick_and_non_Statick-Member.pdb
+F:\C#-Learging\Statick_and_non_Statick-Member\obj\Debug\Statick_and_non_Statick-Member.csproj.AssemblyReference.cache
+F:\C#-Learging\Statick_and_non_Statick-Member\obj\Debug\Statick_and_non_Statick-Member.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Statick_and_non_Statick-Member\obj\Debug\Statick_and_non_Statick-Member.exe
+F:\C#-Learging\Statick_and_non_Statick-Member\obj\Debug\Statick_and_non_Statick-Member.pdb

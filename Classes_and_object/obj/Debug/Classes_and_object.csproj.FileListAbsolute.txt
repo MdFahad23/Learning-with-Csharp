@@ -1,0 +1,7 @@
+F:\C#-Learging\Classes_and_object\bin\Debug\Classes_and_object.exe.config
+F:\C#-Learging\Classes_and_object\bin\Debug\Classes_and_object.exe
+F:\C#-Learging\Classes_and_object\bin\Debug\Classes_and_object.pdb
+F:\C#-Learging\Classes_and_object\obj\Debug\Classes_and_object.csproj.AssemblyReference.cache
+F:\C#-Learging\Classes_and_object\obj\Debug\Classes_and_object.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Classes_and_object\obj\Debug\Classes_and_object.exe
+F:\C#-Learging\Classes_and_object\obj\Debug\Classes_and_object.pdb

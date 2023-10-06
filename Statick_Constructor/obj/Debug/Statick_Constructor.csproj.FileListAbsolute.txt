@@ -1,0 +1,7 @@
+F:\C#-Learging\Statick_Constructor\bin\Debug\Statick_Constructor.exe.config
+F:\C#-Learging\Statick_Constructor\bin\Debug\Statick_Constructor.exe
+F:\C#-Learging\Statick_Constructor\bin\Debug\Statick_Constructor.pdb
+F:\C#-Learging\Statick_Constructor\obj\Debug\Statick_Constructor.csproj.AssemblyReference.cache
+F:\C#-Learging\Statick_Constructor\obj\Debug\Statick_Constructor.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Statick_Constructor\obj\Debug\Statick_Constructor.exe
+F:\C#-Learging\Statick_Constructor\obj\Debug\Statick_Constructor.pdb

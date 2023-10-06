@@ -1,0 +1,7 @@
+F:\C#-Learging\Copy_Constructor\bin\Debug\Copy_Constructor.exe.config
+F:\C#-Learging\Copy_Constructor\bin\Debug\Copy_Constructor.exe
+F:\C#-Learging\Copy_Constructor\bin\Debug\Copy_Constructor.pdb
+F:\C#-Learging\Copy_Constructor\obj\Debug\Copy_Constructor.csproj.AssemblyReference.cache
+F:\C#-Learging\Copy_Constructor\obj\Debug\Copy_Constructor.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Copy_Constructor\obj\Debug\Copy_Constructor.exe
+F:\C#-Learging\Copy_Constructor\obj\Debug\Copy_Constructor.pdb

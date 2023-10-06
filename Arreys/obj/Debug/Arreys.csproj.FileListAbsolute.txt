@@ -1,0 +1,7 @@
+F:\C#-Learging\Arreys\bin\Debug\Arreys.exe.config
+F:\C#-Learging\Arreys\bin\Debug\Arreys.exe
+F:\C#-Learging\Arreys\bin\Debug\Arreys.pdb
+F:\C#-Learging\Arreys\obj\Debug\Arreys.csproj.AssemblyReference.cache
+F:\C#-Learging\Arreys\obj\Debug\Arreys.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Arreys\obj\Debug\Arreys.exe
+F:\C#-Learging\Arreys\obj\Debug\Arreys.pdb

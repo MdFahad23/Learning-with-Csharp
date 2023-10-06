@@ -1,0 +1,7 @@
+F:\C#-Learging\Provlem\bin\Debug\Provlem.exe.config
+F:\C#-Learging\Provlem\bin\Debug\Provlem.exe
+F:\C#-Learging\Provlem\bin\Debug\Provlem.pdb
+F:\C#-Learging\Provlem\obj\Debug\Provlem.csproj.AssemblyReference.cache
+F:\C#-Learging\Provlem\obj\Debug\Provlem.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Provlem\obj\Debug\Provlem.exe
+F:\C#-Learging\Provlem\obj\Debug\Provlem.pdb
