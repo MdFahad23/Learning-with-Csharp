@@ -1,0 +1,7 @@
+F:\C#-Learging\Properites\obj\Debug\Properites.csproj.AssemblyReference.cache
+F:\C#-Learging\Properites\obj\Debug\Properites.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Properites\bin\Debug\Properites.exe.config
+F:\C#-Learging\Properites\bin\Debug\Properites.exe
+F:\C#-Learging\Properites\bin\Debug\Properites.pdb
+F:\C#-Learging\Properites\obj\Debug\Properites.exe
+F:\C#-Learging\Properites\obj\Debug\Properites.pdb

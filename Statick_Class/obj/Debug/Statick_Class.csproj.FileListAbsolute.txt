@@ -1,0 +1,7 @@
+F:\C#-Learging\Statick_Class\bin\Debug\Statick_Class.exe.config
+F:\C#-Learging\Statick_Class\bin\Debug\Statick_Class.exe
+F:\C#-Learging\Statick_Class\bin\Debug\Statick_Class.pdb
+F:\C#-Learging\Statick_Class\obj\Debug\Statick_Class.csproj.AssemblyReference.cache
+F:\C#-Learging\Statick_Class\obj\Debug\Statick_Class.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Statick_Class\obj\Debug\Statick_Class.exe
+F:\C#-Learging\Statick_Class\obj\Debug\Statick_Class.pdb

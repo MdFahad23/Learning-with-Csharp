@@ -1,0 +1,7 @@
+F:\C#-Learging\Types_of_Inheritance\bin\Debug\Types_of_Inheritance.exe.config
+F:\C#-Learging\Types_of_Inheritance\bin\Debug\Types_of_Inheritance.exe
+F:\C#-Learging\Types_of_Inheritance\bin\Debug\Types_of_Inheritance.pdb
+F:\C#-Learging\Types_of_Inheritance\obj\Debug\Types_of_Inheritance.csproj.AssemblyReference.cache
+F:\C#-Learging\Types_of_Inheritance\obj\Debug\Types_of_Inheritance.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Types_of_Inheritance\obj\Debug\Types_of_Inheritance.exe
+F:\C#-Learging\Types_of_Inheritance\obj\Debug\Types_of_Inheritance.pdb

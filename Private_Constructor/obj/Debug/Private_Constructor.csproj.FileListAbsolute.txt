@@ -1,0 +1,7 @@
+F:\C#-Learging\Private_Constructor\obj\Debug\Private_Constructor.csproj.AssemblyReference.cache
+F:\C#-Learging\Private_Constructor\obj\Debug\Private_Constructor.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Private_Constructor\bin\Debug\Private_Constructor.exe.config
+F:\C#-Learging\Private_Constructor\bin\Debug\Private_Constructor.exe
+F:\C#-Learging\Private_Constructor\bin\Debug\Private_Constructor.pdb
+F:\C#-Learging\Private_Constructor\obj\Debug\Private_Constructor.exe
+F:\C#-Learging\Private_Constructor\obj\Debug\Private_Constructor.pdb

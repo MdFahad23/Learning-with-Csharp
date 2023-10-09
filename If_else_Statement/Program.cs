@@ -10,16 +10,16 @@ namespace If_else_Statement
     {
         static void Main(string[] args)
         {
-            /*if(10 < 20)
+            if (10 < 20)
             {
                 Console.WriteLine("You are Curret!");
             }
             else
             {
                 Console.WriteLine("You are not Curret!");
-            }*/
+            }
 
-            /*Console.WriteLine("Entre Your name: ");
+            Console.WriteLine("Entre Your name: ");
             string name = Console.ReadLine();
 
             switch (name)
@@ -30,7 +30,7 @@ namespace If_else_Statement
                 default:
                     Console.WriteLine("InCorret Name");
                     break;
-            }*/
+            }
 
 
             Console.ReadLine();

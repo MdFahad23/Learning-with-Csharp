@@ -1,0 +1,7 @@
+F:\C#-Learging\Single_or_Multilebel_Inheritance\bin\Debug\Single_or_Multilebel_Inheritance.exe.config
+F:\C#-Learging\Single_or_Multilebel_Inheritance\bin\Debug\Single_or_Multilebel_Inheritance.exe
+F:\C#-Learging\Single_or_Multilebel_Inheritance\bin\Debug\Single_or_Multilebel_Inheritance.pdb
+F:\C#-Learging\Single_or_Multilebel_Inheritance\obj\Debug\Single_or_Multilebel_Inheritance.csproj.AssemblyReference.cache
+F:\C#-Learging\Single_or_Multilebel_Inheritance\obj\Debug\Single_or_Multilebel_Inheritance.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Single_or_Multilebel_Inheritance\obj\Debug\Single_or_Multilebel_Inheritance.exe
+F:\C#-Learging\Single_or_Multilebel_Inheritance\obj\Debug\Single_or_Multilebel_Inheritance.pdb

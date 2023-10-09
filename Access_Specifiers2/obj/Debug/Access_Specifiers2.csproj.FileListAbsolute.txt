@@ -1,0 +1,11 @@
+F:\C#-Learging\Access_Specifiers2\bin\Debug\Access_Specifiers2.exe.config
+F:\C#-Learging\Access_Specifiers2\bin\Debug\Access_Specifiers2.exe
+F:\C#-Learging\Access_Specifiers2\bin\Debug\Access_Specifiers2.pdb
+F:\C#-Learging\Access_Specifiers2\bin\Debug\Access_Specifiers.exe
+F:\C#-Learging\Access_Specifiers2\bin\Debug\Access_Specifiers.pdb
+F:\C#-Learging\Access_Specifiers2\bin\Debug\Access_Specifiers.exe.config
+F:\C#-Learging\Access_Specifiers2\obj\Debug\Access_Specifiers2.csproj.AssemblyReference.cache
+F:\C#-Learging\Access_Specifiers2\obj\Debug\Access_Specifiers2.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Access_Specifiers2\obj\Debug\Access_Specifiers2.csproj.CopyComplete
+F:\C#-Learging\Access_Specifiers2\obj\Debug\Access_Specifiers2.exe
+F:\C#-Learging\Access_Specifiers2\obj\Debug\Access_Specifiers2.pdb

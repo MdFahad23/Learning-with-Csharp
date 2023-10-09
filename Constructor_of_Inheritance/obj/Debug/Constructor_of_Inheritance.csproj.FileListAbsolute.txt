@@ -1,0 +1,7 @@
+F:\C#-Learging\Constructor_of_Inheritance\bin\Debug\Constructor_of_Inheritance.exe.config
+F:\C#-Learging\Constructor_of_Inheritance\bin\Debug\Constructor_of_Inheritance.exe
+F:\C#-Learging\Constructor_of_Inheritance\bin\Debug\Constructor_of_Inheritance.pdb
+F:\C#-Learging\Constructor_of_Inheritance\obj\Debug\Constructor_of_Inheritance.csproj.AssemblyReference.cache
+F:\C#-Learging\Constructor_of_Inheritance\obj\Debug\Constructor_of_Inheritance.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Constructor_of_Inheritance\obj\Debug\Constructor_of_Inheritance.exe
+F:\C#-Learging\Constructor_of_Inheritance\obj\Debug\Constructor_of_Inheritance.pdb

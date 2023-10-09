@@ -1,0 +1,7 @@
+F:\C#-Learging\Static_Properties\bin\Debug\Static_Properties.exe.config
+F:\C#-Learging\Static_Properties\bin\Debug\Static_Properties.exe
+F:\C#-Learging\Static_Properties\bin\Debug\Static_Properties.pdb
+F:\C#-Learging\Static_Properties\obj\Debug\Static_Properties.csproj.AssemblyReference.cache
+F:\C#-Learging\Static_Properties\obj\Debug\Static_Properties.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Static_Properties\obj\Debug\Static_Properties.exe
+F:\C#-Learging\Static_Properties\obj\Debug\Static_Properties.pdb

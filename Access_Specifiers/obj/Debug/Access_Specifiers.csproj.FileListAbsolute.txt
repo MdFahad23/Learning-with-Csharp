@@ -1,0 +1,7 @@
+F:\C#-Learging\Access_Specifiers\bin\Debug\Access_Specifiers.exe.config
+F:\C#-Learging\Access_Specifiers\bin\Debug\Access_Specifiers.exe
+F:\C#-Learging\Access_Specifiers\bin\Debug\Access_Specifiers.pdb
+F:\C#-Learging\Access_Specifiers\obj\Debug\Access_Specifiers.csproj.AssemblyReference.cache
+F:\C#-Learging\Access_Specifiers\obj\Debug\Access_Specifiers.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Access_Specifiers\obj\Debug\Access_Specifiers.exe
+F:\C#-Learging\Access_Specifiers\obj\Debug\Access_Specifiers.pdb
