@@ -1,0 +1,7 @@
+F:\C#-Learging\Similarities_Between_Abstract\bin\Debug\Similarities_Between_Abstract.exe.config
+F:\C#-Learging\Similarities_Between_Abstract\bin\Debug\Similarities_Between_Abstract.exe
+F:\C#-Learging\Similarities_Between_Abstract\bin\Debug\Similarities_Between_Abstract.pdb
+F:\C#-Learging\Similarities_Between_Abstract\obj\Debug\Similarities_Between_Abstract.csproj.AssemblyReference.cache
+F:\C#-Learging\Similarities_Between_Abstract\obj\Debug\Similarities_Between_Abstract.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Similarities_Between_Abstract\obj\Debug\Similarities_Between_Abstract.exe
+F:\C#-Learging\Similarities_Between_Abstract\obj\Debug\Similarities_Between_Abstract.pdb

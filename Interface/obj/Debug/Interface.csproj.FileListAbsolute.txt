@@ -1,0 +1,7 @@
+F:\C#-Learging\Interface\bin\Debug\Interface.exe.config
+F:\C#-Learging\Interface\bin\Debug\Interface.exe
+F:\C#-Learging\Interface\bin\Debug\Interface.pdb
+F:\C#-Learging\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+F:\C#-Learging\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Interface\obj\Debug\Interface.exe
+F:\C#-Learging\Interface\obj\Debug\Interface.pdb

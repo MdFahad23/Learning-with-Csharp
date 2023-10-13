@@ -1,0 +1,7 @@
+F:\C#-Learging\AnonymousFunction\bin\Debug\AnonymousFunction.exe.config
+F:\C#-Learging\AnonymousFunction\bin\Debug\AnonymousFunction.exe
+F:\C#-Learging\AnonymousFunction\bin\Debug\AnonymousFunction.pdb
+F:\C#-Learging\AnonymousFunction\obj\Debug\AnonymousFunction.csproj.AssemblyReference.cache
+F:\C#-Learging\AnonymousFunction\obj\Debug\AnonymousFunction.csproj.CoreCompileInputs.cache
+F:\C#-Learging\AnonymousFunction\obj\Debug\AnonymousFunction.exe
+F:\C#-Learging\AnonymousFunction\obj\Debug\AnonymousFunction.pdb

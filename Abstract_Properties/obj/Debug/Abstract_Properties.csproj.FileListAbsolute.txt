@@ -1,0 +1,7 @@
+F:\C#-Learging\Abstract_Properties\bin\Debug\Abstract_Properties.exe.config
+F:\C#-Learging\Abstract_Properties\bin\Debug\Abstract_Properties.exe
+F:\C#-Learging\Abstract_Properties\bin\Debug\Abstract_Properties.pdb
+F:\C#-Learging\Abstract_Properties\obj\Debug\Abstract_Properties.csproj.AssemblyReference.cache
+F:\C#-Learging\Abstract_Properties\obj\Debug\Abstract_Properties.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Abstract_Properties\obj\Debug\Abstract_Properties.exe
+F:\C#-Learging\Abstract_Properties\obj\Debug\Abstract_Properties.pdb

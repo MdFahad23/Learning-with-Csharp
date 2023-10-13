@@ -1,0 +1,7 @@
+F:\C#-Learging\Explicit_Interface\bin\Debug\Explicit_Interface.exe.config
+F:\C#-Learging\Explicit_Interface\bin\Debug\Explicit_Interface.exe
+F:\C#-Learging\Explicit_Interface\bin\Debug\Explicit_Interface.pdb
+F:\C#-Learging\Explicit_Interface\obj\Debug\Explicit_Interface.csproj.AssemblyReference.cache
+F:\C#-Learging\Explicit_Interface\obj\Debug\Explicit_Interface.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Explicit_Interface\obj\Debug\Explicit_Interface.exe
+F:\C#-Learging\Explicit_Interface\obj\Debug\Explicit_Interface.pdb

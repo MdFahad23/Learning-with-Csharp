@@ -1,0 +1,7 @@
+F:\C#-Learging\LambadFunction\bin\Debug\LambadFunction.exe.config
+F:\C#-Learging\LambadFunction\bin\Debug\LambadFunction.exe
+F:\C#-Learging\LambadFunction\bin\Debug\LambadFunction.pdb
+F:\C#-Learging\LambadFunction\obj\Debug\LambadFunction.csproj.AssemblyReference.cache
+F:\C#-Learging\LambadFunction\obj\Debug\LambadFunction.csproj.CoreCompileInputs.cache
+F:\C#-Learging\LambadFunction\obj\Debug\LambadFunction.exe
+F:\C#-Learging\LambadFunction\obj\Debug\LambadFunction.pdb

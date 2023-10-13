@@ -1,0 +1,7 @@
+F:\C#-Learging\Indexers\bin\Debug\Indexers.exe.config
+F:\C#-Learging\Indexers\bin\Debug\Indexers.exe
+F:\C#-Learging\Indexers\bin\Debug\Indexers.pdb
+F:\C#-Learging\Indexers\obj\Debug\Indexers.csproj.AssemblyReference.cache
+F:\C#-Learging\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Indexers\obj\Debug\Indexers.exe
+F:\C#-Learging\Indexers\obj\Debug\Indexers.pdb

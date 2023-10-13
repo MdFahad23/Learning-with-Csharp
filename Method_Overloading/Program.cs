@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Polymorphism of 2 types
+    //Static Polymorphism   //Dynamic Polymorphism
+
+
+//This is Static Polymorphism (Complie time Polymorphism) -- *Method Overloading  * Operator Overloading
 namespace Method_Overloading
 {
     internal class Program

@@ -1,0 +1,7 @@
+F:\C#-Learging\Abstraction\bin\Debug\Abstraction.exe.config
+F:\C#-Learging\Abstraction\bin\Debug\Abstraction.exe
+F:\C#-Learging\Abstraction\bin\Debug\Abstraction.pdb
+F:\C#-Learging\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+F:\C#-Learging\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Abstraction\obj\Debug\Abstraction.exe
+F:\C#-Learging\Abstraction\obj\Debug\Abstraction.pdb
