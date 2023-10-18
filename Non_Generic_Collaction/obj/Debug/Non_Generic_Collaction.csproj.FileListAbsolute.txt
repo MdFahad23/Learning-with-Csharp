@@ -1,0 +1,7 @@
+F:\C#-Learging\Non_Generic_Collaction\bin\Debug\Non_Generic_Collaction.exe.config
+F:\C#-Learging\Non_Generic_Collaction\bin\Debug\Non_Generic_Collaction.exe
+F:\C#-Learging\Non_Generic_Collaction\bin\Debug\Non_Generic_Collaction.pdb
+F:\C#-Learging\Non_Generic_Collaction\obj\Debug\Non_Generic_Collaction.csproj.AssemblyReference.cache
+F:\C#-Learging\Non_Generic_Collaction\obj\Debug\Non_Generic_Collaction.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Non_Generic_Collaction\obj\Debug\Non_Generic_Collaction.exe
+F:\C#-Learging\Non_Generic_Collaction\obj\Debug\Non_Generic_Collaction.pdb

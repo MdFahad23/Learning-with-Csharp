@@ -1,0 +1,7 @@
+F:\C#-Learging\Generics_Method\bin\Debug\Generics_Method.exe.config
+F:\C#-Learging\Generics_Method\bin\Debug\Generics_Method.exe
+F:\C#-Learging\Generics_Method\bin\Debug\Generics_Method.pdb
+F:\C#-Learging\Generics_Method\obj\Debug\Generics_Method.csproj.AssemblyReference.cache
+F:\C#-Learging\Generics_Method\obj\Debug\Generics_Method.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Generics_Method\obj\Debug\Generics_Method.exe
+F:\C#-Learging\Generics_Method\obj\Debug\Generics_Method.pdb

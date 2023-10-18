@@ -1,0 +1,7 @@
+F:\C#-Learging\Generic_Class\bin\Debug\Generic_Class.exe.config
+F:\C#-Learging\Generic_Class\bin\Debug\Generic_Class.exe
+F:\C#-Learging\Generic_Class\bin\Debug\Generic_Class.pdb
+F:\C#-Learging\Generic_Class\obj\Debug\Generic_Class.csproj.AssemblyReference.cache
+F:\C#-Learging\Generic_Class\obj\Debug\Generic_Class.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Generic_Class\obj\Debug\Generic_Class.exe
+F:\C#-Learging\Generic_Class\obj\Debug\Generic_Class.pdb
